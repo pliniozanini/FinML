@@ -1,0 +1,9 @@
+setup.py
+FinML/__init__.py
+FinML/filters.py
+FinML/labelling.py
+FinML.egg-info/PKG-INFO
+FinML.egg-info/SOURCES.txt
+FinML.egg-info/dependency_links.txt
+FinML.egg-info/requires.txt
+FinML.egg-info/top_level.txt
