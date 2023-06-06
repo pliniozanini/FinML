@@ -8,9 +8,6 @@ setup(
     license='MIT',
     author='Plinio Zanini',
     author_email='',
-    description="""
-        Package with auxiliary files inspired in
-        Advances in Financial Machine Learning by Marcos Lopez de Prado
-    """,
+    description='',
     install_requires=['numpy'. 'pandas'],
 )
