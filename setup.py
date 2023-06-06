@@ -12,5 +12,5 @@ setup(
         Package with auxiliary files inspired in
         Advances in Financial Machine Learning by Marcos Lopez de Prado
     """,
-    install_requires=[numpy. pandas],
+    install_requires=['numpy'. 'pandas'],
 )
