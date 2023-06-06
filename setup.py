@@ -9,5 +9,5 @@ setup(
     author='Plinio Zanini',
     author_email='',
     description='',
-    install_requires=['numpy'. 'pandas'],
+    install_requires=['numpy', 'pandas'],
 )
