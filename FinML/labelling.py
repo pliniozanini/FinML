@@ -112,7 +112,7 @@ class Labeller:
         t1 = close.index.searchsorted(tEvents + pd.Timedelta(days=numDays))
         t1 = t1[t1 < close.shape[0]]
         return pd.Series(close.index[t1], index=tEvents[:t1.shape[0]])    # adding NaNs to the end
-    
+
     @staticmethod
     def get_bins(close: pd.Series, events: pd.DataFrame, t1=False) -> pd.DataFrame:
         """
